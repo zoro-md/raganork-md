@@ -1,9 +1,9 @@
-# _Raganork-multi-device_
+# _ZORO-multi-device_
 ## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
   
 <div align="center">
    
-<a href="https://raganork-network.vercel.app/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="https://raganork-network.vercel.app/"><img align="center" src="https://telegra.ph/file/4abb5e925d4ffeedd1a18.jpg" alt="Scan QR" height="112" width="300" /></a><br>
 
 <div>
 <br>
